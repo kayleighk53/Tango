@@ -30,7 +30,7 @@ def populate():
         url="https://docs.djangoproject.com/en/1.5/intro/tutorial01/")
 
     add_page(cat=django_cat,
-        title="Django Rocks",
+        title="Django Rock",
         url="http://www.djangorocks.com/")
 
     add_page(cat=django_cat,
